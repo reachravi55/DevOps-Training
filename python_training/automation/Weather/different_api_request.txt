@@ -1,0 +1,6 @@
+GET retrieves the data from the server
+HEAD retrieves the headers from the server
+
+POST submits the data to the server
+PUT save an object at the location
+DELETE delete an object at the location
